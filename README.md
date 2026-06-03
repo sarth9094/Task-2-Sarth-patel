@@ -1,4 +1,4 @@
-# Student Pass/Fail Prediction Using AI
+# Student Pass/Fail Prediction model Using AI
 
 ## Project Overview
 
